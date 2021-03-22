@@ -2,9 +2,8 @@
 Introduction
 ###################
 
-Hello,we from the group that make this projects would like to introduce ourselves,
-Rafli(Chairman),Bagus,Dennis and Ivan.And we are from the University of Informatics
-Facilities Development,Thank you.
+Hello, Introduce my name Rafli, here I have posted the results of my project shopmart with codeigniter 3, I use php version 7.14, so many of me
+Thank you.
 Happy Coding :)
 
 ###################
